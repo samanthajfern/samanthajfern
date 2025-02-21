@@ -1,6 +1,6 @@
 👋 Hi, I’m Samantha.
 
-Perseverance and compassion are at the heart of everything I do. With my multifaceted experience in engineering, technology, and leadership development, I have an intense passion for product management, focusing on what matters, and above all else empowering the user’s voice 🗣
+Perseverance and compassion are at the heart of everything I do. With my multifaceted experience in engineering, technology, and leadership development, I have an intense passion for product management, focusing on what matters--empowering the user’s voice 🗣
 
 🌱 I’m currently...
 - ➡️ building my own website using Gatsby.js & deploying with Netlify! GitHub @samanthajfern
