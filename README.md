@@ -3,12 +3,11 @@
 Perseverance and compassion are at the heart of everything I do. With my multifaceted experience in engineering, technology, and leadership development, I have an intense passion for product management, focusing on what matters--empowering the user’s voice 🗣
 
 🌱 I’m currently...
-- ➡️ building my own website using Gatsby.js & deploying with Netlify! GitHub @samanthajfern
-- ➡️ Open to work: Associate / Entry-Level Technical Product / Program management roles.
-- ➡️ Finishing my B.S. degree in Information Technology, graduating May 2021 👩🏼‍🎓 
-- ➡️ Mentoring women in tech 👩‍💻 & advising UPE, the premier CS honors society @ FIU
+- ➡️ building my own website using AI tools like v0 & bolt, deploying with Vercel! GitHub @samanthajfern
+- ➡️ Finishing my 150th class of Solidcore 👩🏼‍🎓 
+- ➡️ Mentoring women in tech 👩‍💻 & advising in INIT, the premier CS honors society @ my alma mater FIU
 
-👀 I’m interested in skiing, biking, Zumba dancing, metal concerts, glitch art, the Fallout series, theme park trekking all year round (pre-coivd), and cats!
+👀 While not at work I'm either skiing, biking, Zumba dancing, creating glitch art, theme park trekking all year round!
 
 💞️ I’m looking to collaborate & ideate on impactful technical products that enable radical vulnerability, increasing overall mental health.
 
